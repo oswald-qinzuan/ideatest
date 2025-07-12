@@ -29,5 +29,4 @@ class Solution {
         System.out.println(solution.addBinary(longBinaryA, longBinaryB));
     }
 }
-
-发v哦你就非得
+//测试
